@@ -8,7 +8,7 @@
 namespace PlayFabCommon
 {
     const FString PlayFabCommonSettings::sdkVersion = "1.20.190625";
-    const FString PlayFabCommonSettings::buildIdentifier = "jbuild_unrealmarketplaceplugin__sdk-unrealslave-2b_0";
+    const FString PlayFabCommonSettings::buildIdentifier = "jbuild_unrealmarketplaceplugin__sdk-unrealslave-6_0";
     const FString PlayFabCommonSettings::versionString = "UE4MKPL-1.20.190625";
     const FString PlayFabCommonSettings::verticalName = "";
 
